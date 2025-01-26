@@ -1,1 +1,3 @@
-you ar e ajsbsas d  jbbd
+git branch -M main
+git remote add origin https://github.com/pratham07-8/ello-system.git
+git push -u origin maingit
